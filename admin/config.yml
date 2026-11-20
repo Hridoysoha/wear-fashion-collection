@@ -1,0 +1,31 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "img/uploads"
+public_folder: "/img/uploads"
+
+collections:
+  - name: "products"
+    label: "ডিজাইন / প্রোডাক্ট"
+    files:
+      - name: "products_file"
+        label: "সব ডিজাইন"
+        file: "data/products.json"
+        description: "নতুন ডিজাইন যোগ করুন, নাম/ছবি বদলান, পুরনো ডিজাইন মুছুন — তারপর Publish চাপুন"
+        fields:
+          - label: "ডিজাইনের তালিকা"
+            name: "products"
+            widget: "list"
+            summary: "{{fields.code}} — {{fields.name}}"
+            fields:
+              - { label: "ডিজাইন নং (যেমন WF-28)", name: "code", widget: "string" }
+              - { label: "ডিজাইনের নাম", name: "name", widget: "string" }
+              - label: "ক্যাটাগরি"
+                name: "category"
+                widget: "select"
+                options:
+                  - { label: "শাড়ি", value: "saree" }
+                  - { label: "থ্রি-পিস", value: "threepiece" }
+                  - { label: "কিডস", value: "kids" }
+              - { label: "ছবি", name: "image", widget: "image" }
