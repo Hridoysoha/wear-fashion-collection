@@ -4,162 +4,189 @@
    "code": "WF-01",
    "name": "প্রিমিয়াম এমব্রয়ডারি আনারকলি থ্রি-পিস — অ্যাশ",
    "category": "threepiece",
+   "price": "",
    "image": "img/p01.jpg"
   },
   {
    "code": "WF-02",
    "name": "প্রিমিয়াম এমব্রয়ডারি আনারকলি থ্রি-পিস — টিল ব্লু",
    "category": "threepiece",
+   "price": "",
    "image": "img/p02.jpg"
   },
   {
    "code": "WF-03",
    "name": "প্রিমিয়াম এমব্রয়ডারি আনারকলি থ্রি-পিস — মিন্ট",
    "category": "threepiece",
+   "price": "",
    "image": "img/p03.jpg"
   },
   {
    "code": "WF-04",
    "name": "প্রিমিয়াম এমব্রয়ডারি আনারকলি থ্রি-পিস — ম্যাজেন্টা",
    "category": "threepiece",
+   "price": "",
    "image": "img/p04.jpg"
   },
   {
    "code": "WF-05",
    "name": "প্রিমিয়াম এমব্রয়ডারি আনারকলি থ্রি-পিস — সাদা",
    "category": "threepiece",
+   "price": "",
    "image": "img/p05.jpg"
   },
   {
    "code": "WF-06",
    "name": "রোজ প্রিন্ট প্রিমিয়াম শাড়ি — রয়েল ব্লু",
    "category": "saree",
+   "price": "",
    "image": "img/p06.jpg"
   },
   {
    "code": "WF-07",
    "name": "ফ্লোরাল প্রিন্ট প্রিমিয়াম শাড়ি — মাল্টিকালার",
    "category": "saree",
+   "price": "",
    "image": "img/p07.jpg"
   },
   {
    "code": "WF-08",
    "name": "ফ্লোরাল প্রিন্ট প্রিমিয়াম শাড়ি — রেইনবো পিংক",
    "category": "saree",
+   "price": "",
    "image": "img/p08.jpg"
   },
   {
    "code": "WF-09",
    "name": "টাই-ডাই প্রিন্ট প্রিমিয়াম শাড়ি — স্কাই ব্লু",
    "category": "saree",
+   "price": "",
    "image": "img/p09.jpg"
   },
   {
    "code": "WF-10",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — ল্যাভেন্ডার",
    "category": "kids",
+   "price": "",
    "image": "img/p11.jpg"
   },
   {
    "code": "WF-11",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — সবুজ",
    "category": "kids",
+   "price": "",
    "image": "img/p12.jpg"
   },
   {
    "code": "WF-12",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — মেরুন",
    "category": "kids",
+   "price": "",
    "image": "img/p14.jpg"
   },
   {
    "code": "WF-13",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — ডাস্টি পিংক",
    "category": "kids",
+   "price": "",
    "image": "img/p15.jpg"
   },
   {
    "code": "WF-14",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — বেগুনি",
    "category": "kids",
+   "price": "",
    "image": "img/p16.jpg"
   },
   {
    "code": "WF-15",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — ডিপ গ্রিন",
    "category": "kids",
+   "price": "",
    "image": "img/p17.jpg"
   },
   {
    "code": "WF-16",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — সাদা",
    "category": "kids",
+   "price": "",
    "image": "img/p18.jpg"
   },
   {
    "code": "WF-17",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — লাল-মেরুন",
    "category": "kids",
+   "price": "",
    "image": "img/p19.jpg"
   },
   {
    "code": "WF-18",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — পার্পল",
    "category": "kids",
+   "price": "",
    "image": "img/p20.jpg"
   },
   {
    "code": "WF-19",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — গ্রিন",
    "category": "kids",
+   "price": "",
    "image": "img/p21.jpg"
   },
   {
    "code": "WF-20",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — ভায়োলেট",
    "category": "kids",
+   "price": "",
    "image": "img/p22.jpg"
   },
   {
    "code": "WF-21",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — মাস্টার্ড",
    "category": "kids",
+   "price": "",
    "image": "img/p24.jpg"
   },
   {
    "code": "WF-22",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — বেবি পিংক",
    "category": "kids",
+   "price": "",
    "image": "img/p25.jpg"
   },
   {
    "code": "WF-23",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — ওয়াইন",
    "category": "kids",
+   "price": "",
    "image": "img/p26.jpg"
   },
   {
    "code": "WF-24",
    "name": "কিডস এমব্রয়ডারি থ্রি-পিস — মিন্ট গ্রিন",
    "category": "kids",
+   "price": "",
    "image": "img/p27.jpg"
   },
   {
    "code": "WF-25",
    "name": "কিডস শারারা সেট — বেগুনি-গোল্ডেন",
    "category": "kids",
+   "price": "",
    "image": "img/p28.jpg"
   },
   {
    "code": "WF-26",
    "name": "কিডস শারারা সেট — টিল-গোল্ডেন",
    "category": "kids",
+   "price": "",
    "image": "img/p29.jpg"
   },
   {
    "code": "WF-27",
    "name": "কিডস শারারা সেট — ক্রিম-গোল্ডেন",
    "category": "kids",
+   "price": "",
    "image": "img/p30.jpg"
   }
  ]

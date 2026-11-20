@@ -2,6 +2,10 @@ backend:
   name: git-gateway
   branch: main
 
+locale: "bn"
+editor:
+  preview: false
+
 media_folder: "img/uploads"
 public_folder: "/img/uploads"
 
@@ -21,6 +25,7 @@ collections:
             fields:
               - { label: "ডিজাইন নং (যেমন WF-28)", name: "code", widget: "string" }
               - { label: "ডিজাইনের নাম", name: "name", widget: "string" }
+              - { label: "দাম (শুধু সংখ্যা লিখুন, যেমন 1250 — খালি রাখলে দাম দেখাবে না)", name: "price", widget: "string", required: false }
               - label: "ক্যাটাগরি"
                 name: "category"
                 widget: "select"
